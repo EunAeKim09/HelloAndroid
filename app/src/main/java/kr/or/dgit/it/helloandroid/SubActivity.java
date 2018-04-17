@@ -20,6 +20,6 @@ public class SubActivity extends AppCompatActivity {
                 finish();
             }
         });
-        setContentView(tv);
+        setContentView(btnClose);
     }
 }
